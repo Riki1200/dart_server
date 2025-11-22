@@ -91,5 +91,6 @@ flutter run
 -   **Sound**: Add your own `win.mp3` to `client/assets/sounds/` to enable sound effects.
 -   **Theme**: Modify `client/lib/main.dart` to change the color scheme (currently Indigo/Slate).
 
+
 ## 📄 License
 This project is open-source and available for personal and educational use.
